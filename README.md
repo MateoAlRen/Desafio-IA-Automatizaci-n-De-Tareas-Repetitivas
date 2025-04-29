@@ -36,21 +36,11 @@ La automatización de tareas repetitivas en la IA es algo fundamental para el de
 
 | Aspecto                    | Proceso Tradicional              | Solución con IA                         |
 |----------------------------|----------------------------------|-----------------------------------------|
-| Organización de Documentos   | Lento                            | Clasificación automática mediante IA (OCR, análisis de texto).                       |
-| Tiempo de Gestión           |  Lento debido a la intervención manual.| Bajo, eficiente                         |
-| Consistencia de respuestas | Variable                         | Homogénea y mejorada                   |
-| Adaptabilidad              | Limitada                         | Dinámica, con aprendizaje continuo     |
+| Organización de Documentos.   | Lento.                            | Clasificación automática mediante IA (OCR, análisis de texto).                       |
+| Tiempo de Gestión.           |  Lento debido a la intervención manual.| Bajo, eficiente.                         |
+| Consistencia de respuestas. | Variable.                         | Respuestas rápidas y listadas.                  |
+| Adaptabilidad.              | Limitada.                         | Excelente adaptabilidad.     |
 
 ## 5. Reflexión Personal
 
-Este ejercicio demuestra que la IA no solo mejora la eficiencia, sino que también permite una mayor adaptabilidad y personalización en los procesos. Sin embargo, es crucial asegurar la calidad de los datos, establecer mecanismos de supervisión humana y considerar las implicaciones éticas de cada implementación.
-
----
-
-## Tiempo Sugerido
-
-Dedica entre 30 y 45 minutos para desarrollar esta documentación.
-
-## Entregable
-
-Repositorio en GitHub con un archivo `README.md` que incluya toda la información anterior.
+Este análisis hecho sobre la IA demuestra que puede ser una herramienta muy útil para el desarrollo de tareas agotadoras las cuales ayudan a mejorar el rendimiento, las respuestas e incluso los tiempos de espera que se dan con los trabajos repetitivos que se dan en el día a día laboral.
