@@ -37,7 +37,7 @@ La automatización de tareas repetitivas en la IA es algo fundamental para el de
 | Aspecto                    | Proceso Tradicional              | Solución con IA                         |
 |----------------------------|----------------------------------|-----------------------------------------|
 | Organización de Documentos.   | Lento.                            | Clasificación automática mediante IA (OCR, análisis de texto).                       |
-| Tiempo de Gestión.           |  Lento debido a la intervención manual.| Bajo, eficiente.                         |
+| Tiempo de Gestión.           |  Lento debido a la intervención manual.| Eficiente.                         |
 | Consistencia de respuestas. | Variable.                         | Respuestas rápidas y listadas.                  |
 | Adaptabilidad.              | Limitada.                         | Excelente adaptabilidad.     |
 
